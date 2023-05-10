@@ -5,33 +5,20 @@
 }
 
 body {
-    background-color: var(--bg-color);
+    background-color: #EBDEF0 ;
     color: var(--txt-color);
 }
 
-
-.navbar {
-    padding: 0;
-    border: 8px;
-    border-color: var(--pink);
+#content-header {
+    background-image: url(./images/personal-finance.png);
+    width: 100%;
+    height: 225px;
+    
+    display: flex;
+    background-size: cover;
 }
 
 .navbar * {
-    font-family: 'Poppins', sans-serif;
-    color: var(--txt-color);
-}
-
-.bg-body-tertiary {
-    background-color: var(--bg-color);
-    --bs-bg-opacity:var(--bg-color);
-}
-
-#content {
-    background-image: url(./images/personal-finance.png);
-    height: 500px;
-    width: 100%;
-    display: flex;
-    background-size: cover;
-    
+    font-family: 'Josefin Slab';
 }
 
