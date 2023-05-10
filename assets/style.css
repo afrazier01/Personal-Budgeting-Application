@@ -1,0 +1,13 @@
+:root {
+    --bg-color: #000; 
+    --txt-color: #fff;
+}
+
+* {
+    background-color: var(--bg-color);
+    color: var(--txt-color);
+}
+
+.navbar-brand {
+    color: var(--txt-color);
+}
