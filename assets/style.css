@@ -1,13 +1,37 @@
 :root {
     --bg-color: #000; 
     --txt-color: #fff;
+    --pink: #f9049a
 }
 
-* {
+body {
     background-color: var(--bg-color);
     color: var(--txt-color);
 }
 
-.navbar-brand {
+
+.navbar {
+    padding: 0;
+    border: 8px;
+    border-color: var(--pink);
+}
+
+.navbar * {
+    font-family: 'Poppins', sans-serif;
     color: var(--txt-color);
 }
+
+.bg-body-tertiary {
+    background-color: var(--bg-color);
+    --bs-bg-opacity:var(--bg-color);
+}
+
+#content {
+    background-image: url(./images/personal-finance.png);
+    height: 500px;
+    width: 100%;
+    display: flex;
+    background-size: cover;
+    
+}
+
