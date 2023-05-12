@@ -9,13 +9,14 @@ body {
     color: var(--txt-color);
 }
 
-#content-header {
-    background-image: url(./images/personal-finance.png);
+#content-header img {
     width: 100%;
     height: 225px;
-    margin-bottom: 10px;
+    border-bottom: 25px solid;
+    border-color: var(--bg-color);
     display: flex;
     background-size: cover;
+    
 }
 
 .navbar * {
