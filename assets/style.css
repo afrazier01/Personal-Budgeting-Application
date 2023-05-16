@@ -90,7 +90,3 @@ p {
     width: 65px;
 }
 
-#submit-btn:hover {
-    background-color: #45199d;
-    color: var(--pink);
-}
