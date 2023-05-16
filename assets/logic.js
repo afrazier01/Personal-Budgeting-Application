@@ -7,8 +7,8 @@ var greetingBtn = document.createElement('button')
 greetingBtn.setAttribute('id','greeting-btn')
 greetingBtn.textContent = 'Get Started'
 var returnHomeBtn = document.createElement('a')
-returnHomeBtn.textContent = 'Home'
-returnHomeBtn.setAttribute('style','margin-top:5px; height: 25px; width: auto; background-color: #f9049a; border: 5px solid; border-radius: 25px; padding: 5px; font-style: normal;')
+returnHomeBtn.textContent = '⬅ Back'
+returnHomeBtn.setAttribute('style','text-decoration: none;')
 returnHomeBtn.setAttribute('href','./index.html')
 
 
