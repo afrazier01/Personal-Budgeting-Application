@@ -1,0 +1,22 @@
+{
+  "name": "budgeting-application",
+  "version": "1.0.0",
+  "description": "This program serves as a personal budgeting tool/resource for college and high school students. The goal is to empower learners to build a foundation of financial principles that led to wealth.",
+  "main": "server.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
