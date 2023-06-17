@@ -42,6 +42,11 @@ form {
     margin: 10px;
 }
 
+#extra-resources {
+    background-color: var(--bg-color);
+    color: var(--pink);
+}
+
 #contribution h2, #contribution p, #contribution div {
     background-color: var(--bg-color);
     color: var(--pink);
