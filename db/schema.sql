@@ -1,3 +1,8 @@
 DROP DATABASE IF EXISTS budget_db;
 CREATE DATABASE budget_db;
 USE budget_db;
+
+CREATE TABLE users (
+    id INT AUTO_INCREMENT PRIMARY KEY
+    , email VARCHAR(30) NOT NULL
+);

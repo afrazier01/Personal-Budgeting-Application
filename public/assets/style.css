@@ -94,4 +94,27 @@ p {
     border-radius: 25px;
     width: 65px;
 }
+#budget-submit {
+    border-radius: 15px;
+    background-color: #fff;
+    width: 65px;
+    margin: 10px;
+}
 
+#input-field-budget {
+    width: 95%;
+}
+
+#user-email {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.email-box form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}

@@ -12,7 +12,7 @@ app.use(express.json());
 app.use(express.static('public'))
 
 app.get('/', (req,res) => {
-    console.info(`${req.method} was received.`);
+    console.info(`${req.method} request was received.`);
 
     res.sendFile(path.join(__dirname,'./public/index.html'))
 });
