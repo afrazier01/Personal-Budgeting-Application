@@ -1,5 +1,7 @@
 # Personal-Budgeting-Application
 
+![logo](./images/personal-finance.png)
+
 ## Description
 
 This program serves as a personal budgeting tool/resource for young people to get an introduction to personal finance. The goal is to empower learners to build a foundation of financial principles that led to wealth.
