@@ -4,7 +4,7 @@
 
 This program serves as a personal budgeting tool/resource for young people to get an introduction to personal finance. The goal is to empower learners to build a foundation of financial principles that led to wealth.
 
-`While in development, a link may not be available. If you have any questions reach out to me at the contact details below`
+`While in development, a link may not be available. If you have any questions, please reach out to me at the contact details below.`
 
 ## Table of Contents
 1. [Installation](#installation)
