@@ -1,0 +1,50 @@
+[
+  {
+    "loanTerm": 36,
+    "interestRate": 4.5,
+    "loanPrincipal": 422,
+    "depositAmount": 0,
+    "loanTitle": "Lemonade Stand",
+    "monthlyPayment": 0
+  },
+  {
+    "loanTerm": 24,
+    "interestRate": 5.5,
+    "loanPrincipal": 890,
+    "depositAmount": 0,
+    "loanTitle": "Limited Edition X-Box",
+    "monthlyPayment": 0
+  },
+  {
+    "loanTerm": 12,
+    "interestRate": 6.5,
+    "loanPrincipal": 1402.5,
+    "depositAmount": 0,
+    "loanTitle": "Collectable",
+    "monthlyPayment": 0
+  },
+  {
+    "loanTerm": 60,
+    "interestRate": 5,
+    "loanPrincipal": 7500,
+    "depositAmount": 500,
+    "loanTitle": "Playstation",
+    "monthlyPayment": 0
+  },
+  {
+    "loanTerm": 30,
+    "interestRate": 3.5,
+    "loanPrincipal": 175000,
+    "depositAmount": 2083,
+    "loanTitle": "Tutoring Fee",
+    "monthlyPayment": 0
+  },
+  {
+    "loanTerm": 12,
+    "interestRate": 5,
+    "loanPrincipal": 500000,
+    "depositAmount": 0,
+    "loanTitle": "Business Investment",
+    "monthlyPayment": 0
+  }
+]

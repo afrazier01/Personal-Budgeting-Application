@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'TypewriterFont';
+    src: url('./fonts/PARPG.otf') format('opentype'),
+        url('./fonts/PARPG.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

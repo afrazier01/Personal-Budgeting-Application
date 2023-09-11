@@ -1,0 +1,27 @@
+[
+    {
+      "username": "testUser",
+      "email": "testUser01@mail.com",
+      "password": "Password01"
+    },
+    {
+        "username": "testUser2",
+        "email": "testUser2@gmail.com",
+        "password": "Password01"
+    },
+    {
+        "username": "Greatest2EvaDoIt",
+        "email": "Greatest2EvaDoIt@aol.com",
+        "password": "Password01"
+    },
+    {
+        "username": "User123",
+        "email": "user123@gmail.com",
+        "password": "Password01"
+    },
+    {
+        "username": "finance-fusion-lover1",
+        "email": "finance-fusion-lover1@mail.com",
+        "password": "Password01"
+    }
+]
